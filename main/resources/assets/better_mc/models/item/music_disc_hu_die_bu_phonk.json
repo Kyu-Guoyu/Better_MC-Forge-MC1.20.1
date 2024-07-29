@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "better_mc:item/music_disc_hu_die_bu_phonk"
+  }
+}

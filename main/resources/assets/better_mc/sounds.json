@@ -1,0 +1,65 @@
+{
+  "music_disc.sea_of_tranquility": {
+    "subtitle": "subtitles.music_disc.sea_of_tranquility",
+    "sounds": [
+      {
+        "name": "better_mc:bemax_-_sea_of_tranquility",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.gigachad_theme_phonk_house_version": {
+    "subtitle": "subtitles.music_disc.gigachad_theme_phonk_house_version",
+    "sounds": [
+      {
+        "name": "better_mc:g3ox_em_-_gigachad_theme_phonk_house_version",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.hu_die_bu_phonk": {
+    "subtitle": "subtitles.music_disc.hu_die_bu_phonk",
+    "sounds": [
+      {
+        "name": "better_mc:gtr7_-_hu_die_bu__phonk",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.bankai_explicit": {
+    "subtitle": "subtitles.music_disc.bankai_explicit",
+    "sounds": [
+      {
+        "name": "better_mc:aega_-_bankai_explicit",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.darkside": {
+    "subtitle": "subtitles.music_disc.darkside",
+    "sounds": [
+      {
+        "name": "better_mc:darkside_explicit",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.funk_estranho_super_slowed_explicit": {
+    "subtitle": "subtitles.music_disc.funk_estranho_super_slowed_explicit",
+    "sounds": [
+      {
+        "name": "better_mc:alxike_-_funk_estranho_super_slowedexplicit",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.9_in_my_hand_fast_furious_drift_tape_phonk_vol_1": {
+    "subtitle": "subtitles.music_disc.9_in_my_hand_fast_furious_drift_tape_phonk_vol_1",
+    "sounds": [
+      {
+        "name": "better_mc:kordhell_-_9_in_my_hand_fast__furious_drift_tapephonk_vol_1",
+        "stream": true
+      }
+    ]
+  }
+}

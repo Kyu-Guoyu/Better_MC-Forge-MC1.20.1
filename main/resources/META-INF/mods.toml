@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="better_mc"
+version="1.0.0"
+displayName="Better MC"
+displayURL="https://github.com/Kyu-Guoyu/Better_MC-Forge-MC1.20.1"
+logoFile="logo.png"
+credits="VSCode"
+authors="Guoyu Wang"
+description="This is a mod that makes Guoyu Wang and Yujie Gong feel that MC has become better"
+
+[[dependencies.better_mc]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
